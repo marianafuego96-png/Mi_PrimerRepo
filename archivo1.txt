@@ -1,13 +1,6 @@
 contenido de archivo1
-<<<<<<< HEAD
 Hola Anto, estoy modificando tu archivo
 hola marian.
-
-bien y vos?
-=======
-Hola Anto, estoy modificando tu archivos
-
 Hola, como estas Antonella? 
-
+bien y vos?
 Bien, peleando con GITHUB
->>>>>>> ed1f86ecb87b9cc574843452d861f5d54ccf74fa
